@@ -1,0 +1,43 @@
+_repo: Tess-of-the-Storm-Country_22064
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Grace Miller
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '7802'
+    url: http://www.gutenberg.org/2009/agents/7802
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Miller_White
+description: The gripping novel Tess of the Storm Country was a very popular bestseller
+  that inspired no fewer than four film versions. The story centers on Tess Skinner,
+  a beautiful but impoverished young woman from the wrong side of the tracks. The
+  book offers a gritty look at poverty and social mores in turn-of-the-twentieth-century
+  America, but this note of realism is nicely balanced out by the against-all-odds
+  romance that blossoms between Tess and the man of her dreams.
+gutenberg_bookshelf: Movie Books
+gutenberg_issued: '2007-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ithaca (N.Y.) -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'New York (State) -- Fiction'
+- !lcc 'PS'
+title: Tess of the Storm Country
+url: http://www.gutenberg.org/ebooks/22064
